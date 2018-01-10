@@ -1,3 +1,4 @@
 # hello-world
-hello-world
-test modify
+
+## problem1 "(gnome-ssh-askpass:11720): Gtk-WARNING **: cannot open display:"
+unset SSH_ASKPASS
