@@ -9,6 +9,12 @@ https://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b
 ## 关于fork
 https://guides.github.com/activities/forking/
 
+## 关于Understanding the GitHub Flow
+https://guides.github.com/introduction/flow/
+
+## On Demand Training
+https://services.github.com/on-demand/
+
 ## 小case
 ### Using SSH agent forwarding
 https://developer.github.com/v3/guides/using-ssh-agent-forwarding/
